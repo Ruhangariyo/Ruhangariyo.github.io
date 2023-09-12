@@ -1,4 +1,8 @@
-**Hello World!**
+**Hello Dev!**
+
+**Happy birth day**
+
+![devota's image](https://img.freepik.com/free-photo/gold-elements-birthday-party-cake_23-2150397230.jpg?size=626&ext=jpg&ga=GA1.1.1730595661.1694525209)
 
 _I lyk Programming_
 
